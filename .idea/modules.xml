@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config1/config1.iml" filepath="$PROJECT_DIR$/config1/config1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom/custom.iml" filepath="$PROJECT_DIR$/custom/custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekas/eurekas.iml" filepath="$PROJECT_DIR$/eurekas/eurekas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produce/produce.iml" filepath="$PROJECT_DIR$/produce/produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produce1/produce1.iml" filepath="$PROJECT_DIR$/produce1/produce1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produceproject1/produceproject1.iml" filepath="$PROJECT_DIR$/produceproject1/produceproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload/upload.iml" filepath="$PROJECT_DIR$/upload/upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulS1/zuulS1.iml" filepath="$PROJECT_DIR$/zuulS1/zuulS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulS2/zuulS2.iml" filepath="$PROJECT_DIR$/zuulS2/zuulS2.iml" />
+    </modules>
+  </component>
+</project>

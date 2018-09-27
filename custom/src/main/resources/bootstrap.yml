@@ -1,0 +1,21 @@
+#第一种配置
+#spring:
+#  application:
+#    name: custom  #在gitlab   中 custom-test.yml   {application}-{profile}
+#  cloud:
+#    config:
+#      uri: http://localhost:8881/ #config server 的地址
+#      profile: test
+#      label: master
+
+#第二种配置
+spring:
+  application:
+    name: custom  #在gitlab   中 custom-test.yml   {application}-{profile}
+  cloud:
+    config:
+      profile: test
+      label: master
+      discovery:
+        enabled: true #开启通过服务发现组件访问config server
+        service-id: configserver #指定config server在服务发现组件中的serviceid

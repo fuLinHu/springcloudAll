@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekas-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/produce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/produce1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/produceproject1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuulS1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuulS2" charset="UTF-8" />
+  </component>
+</project>

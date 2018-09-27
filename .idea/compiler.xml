@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+        <module name="config1" />
+        <module name="custom" />
+        <module name="eurekas" />
+        <module name="eurekas1" />
+        <module name="produce" />
+        <module name="produce1" />
+        <module name="produceproject1" />
+        <module name="upload" />
+        <module name="zuul" />
+        <module name="zuulS1" />
+        <module name="zuulS2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="config1" target="1.8" />
+      <module name="configclinet" target="1.8" />
+      <module name="custom" target="1.8" />
+      <module name="eurekas" target="1.8" />
+      <module name="eurekas-ha" target="1.8" />
+      <module name="eurekas1" target="1.8" />
+      <module name="produce" target="1.8" />
+      <module name="produce (1)" target="1.8" />
+      <module name="produce1" target="1.8" />
+      <module name="produceproject1" target="1.8" />
+      <module name="upload" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuulS1" target="1.8" />
+      <module name="zuulS2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

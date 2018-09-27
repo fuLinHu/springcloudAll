@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eurekas/pom.xml" />
+        <option value="$PROJECT_DIR$/produce/pom.xml" />
+        <option value="$PROJECT_DIR$/custom/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/produce1/pom.xml" />
+        <option value="$PROJECT_DIR$/produceproject1/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekas1/pom.xml" />
+        <option value="$PROJECT_DIR$/upload/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulS1/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulS2/pom.xml" />
+        <option value="$PROJECT_DIR$/config1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

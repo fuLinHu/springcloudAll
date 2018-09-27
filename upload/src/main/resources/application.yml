@@ -1,0 +1,17 @@
+server:
+  port: 8885
+
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka/
+spring:
+  application:
+    name: upload
+  servlet:
+    multipart:
+      max-file-size: 2000Mb #是单个文件大小
+      max-request-size: 2500Mb #是设置总上传的数据大小
